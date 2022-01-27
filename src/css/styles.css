@@ -88,9 +88,9 @@ h1 {
 }
 
 #moreInfo {
- width: 100%;
- border: 5px solid black;
- margin: 2px;
+  width: 100%;
+  border: 5px solid black;
+  margin: 2px;
 }
 
 #filterList {
@@ -125,6 +125,7 @@ li {
   width:100px;
   height:100px;
   text-indent: 10%;
+  font-family: HIRO MISAKE;
 }
 
 
